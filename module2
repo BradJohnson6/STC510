@@ -1,0 +1,180 @@
+Script started on Sun Jan 29 18:46:37 2023
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ grep .txt log.csv | wc -l[K[Khead log.csv[C[C[C[C[C[C[C[C[C[C[7Pls -ltar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cls[Kcurl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o mod2.tar.gz[C[C[C[C[C[C[C[C[C[Chead pol.tar.gz[K[C[C[C[C[C[C[C[C[C[Cls[Kcd datals[Kcd ..[3Plscd downloads[C[C[C[C[C[C[C[C[C[Cls[Kpwd[1Plscat dedup.txt | sort -R[2Pwc -l[Ksorted.txt | uniq > dedup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnumbers.txt | sort > sorted.txt[C[C[C[C[C[C[C[C[C[C[19Phead numbers.txt[C[C[C[C[C[C[C[C[C[C[72@grep -o '[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9]' tweets.json >[C[C[C[C[C[C[C[C[C[C[C[C[K[16P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16P'[A-Z][a-z]* [A-Z][a-z]*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16@-o '[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][C[C[C[C[C[C[C[C[C[C[C[C[C[16@-[0-9][0-9][0-9][C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C > numbers.txt[C[C[C[C[C[C[C[C[C[Chead numbers.txt[K[C[C[C[C[C[C[C[C[C[Ccat numbers.txt | sort > sorted.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Psorted.txt | uniq > dedup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdedup.txt[K | wc -lsort -R[C[C[C[C[C[C[C[C[C[Cls[Kpwd[1Plscd downloads[C[C[C[C[C[C[C[C[C[Cls[Kcd ..[3Plscd datals[Khead pol.tar.gz[C[C[C[C[C[C[C[C[C[Ccurl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o mod2.tar.gz
+bash-3.2$ curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cgrep .txt log.csv | wc -l[K[K[Khead log.csv[C[C[C[C[C[C[C[C[C[C[7Pls -ltar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cls[Ktar -xvzf mod2.tar.gz
+x log.csv^[[A^[[A^[[A^[[A^[[B                    : Write failed
+tar: Error exit delayed from previous errors.
+bash-3.2$ tar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[C[62@curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep .txt log.csv | wc -l[K[K[Khead log.csv[C[C[C[C[C[C[C[C[C[C[7Pls -ltar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cls[Ktar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cls -l[Khead log.csv[K[K[K[Krep ',education.*\.txt\>' log.csv[1@g
+40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+bash-3.2$ cd[K[Kls
+LICENSE		README.md	hello.py	log.csv		mod2.tar.gz	module2		proj.txt
+bash-3.2$ Brd adly Johnson Module[25d[K[3;22H 2 FBI   'FBI' records best attempt [1PAttempt[45G[1PBest Attempt[3;40H[1PRecords Best Attempt[3;32Hecords Best Attem[25d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                                                                                  [26;1H Y(B[m Yes[K[27d(B[0;7m N(B[m No  [27;17H(B[0;7m^C(B[m Cancel[K[25;62H(B[0;7mFile Name to Write: proj.txt                                [26d^G(B[m Get Help[26;36H(B[0;7m^T(B[m To Files[26;71H(B[0;7mM-M(B[m Mac Format[26;106H(B[0;7mM-P(B[m Prepend[27d(B[0;7m^C(B[m Cancel[17G         [27;36H(B[0;7mM-D(B[m DOS Format[27;71H(B[0;7mM-A(B[m Append[27;106H(B[0;7mM-B(B[m Backup File[25;29H[26d[39;49m(B[m[J[1;133H(B[0;7m        [25;62H(B[m[1K (B[0;7m[ Wrote 3 lines ](B[m[K[27;142H[27;1H[?1049l[?1l>bash-3.2$ nano proj.txt[C[C[C[C[C[C[C[C[C[Cls[Kgrep ',education.*\.txt\>' log.csv[C[C[C[C[C[C[C[C[C[C[13Ptar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[C[62@curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep .txt log.csv | wc -l[K[K[Khead log.csv[C[C[C[C[C[C[C[C[C[C[7Pls -ltar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cls[Kcurl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o mod2.tar.gz[C[C[C[C[C[C[C[C[C[Chead pol.tar.gz[K[C[C[C[C[C[C[C[C[C[Cls[Kcd datals[Kcd ..[3Plscd downloads[C[C[C[C[C[C[C[C[C[Cls[Kpwd[1Plscat dedup.txt | sort -R[2Pwc -l[Ksorted.txt | uniq > dedup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnumbers.txt | sort > sorted.txt[C[C[C[C[C[C[C[C[C[C[19Phead numbers.txt[C[C[C[C[C[C[C[C[C[C[72@grep -o '[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9]' tweets.json >[C[C[C[C[C[C[C[C[C[C[C[C[K[16P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16P'[A-Z][a-z]* [A-Z][a-z]*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pa-z0-0-]*.com[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@][a-z]* [A-Z][a-z]*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16@-o '[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][C[C[C[C[C[C[C[C[C[C[C[C[C[16@-[0-9][0-9][0-9][C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C > numbers.txt[C[C[C[C[C[C[C[C[C[Chead numbers.txt[K[C[C[C[C[C[C[C[C[C[Ccat numbers.txt | sort > sorted.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Psorted.txt | uniq > dedup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdedup.txt[K | wc -lsort -R[C[C[C[C[C[C[C[C[C[Cls[Kpwd[1Plscd downloads[C[C[C[C[C[C[C[C[C[Cls[Kcd ..[3Plscd datals[Khead pol.tar.gz[C[C[C[C[C[C[C[C[C[Ccurl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cls[Ktar -xvzf mod2.tar.gz[C[C[C[C[C[C[C[C[C[Cls -l[Khead log.csv[C[C[C[C[C[C[C[C[C[C[3Pgrep .txt log.csv | wc -l[C[C[C[C[C[C[C[C[C[Ccurl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0 -o mod2.tar.gz[C[C[C[C[C[C[C[C[C[Ctar -xvzf mod2.tar.gz[K[C[C[C[C[C[C[C[C[C[Cgrep ',education.*\.txt\>' log.csv[C[C[C[C[C[C[C[C[C[Cls[Knano proj.txt[C[C[C[C[C[C[C[C[C[C[Kgit status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   proj.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mlog.csv[m
+	[31mmod2.tar.gz[m
+	[31mmodule2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-3.2$ git push
+Everything up-to-date
+bash-3.2$ git commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	[31mmodified:   proj.txt[m
+
+Untracked files:
+	[31mlog.csv[m
+	[31mmod2.tar.gz[m
+	[31mmodule2[m
+
+no changes added to commit
+bash-3.2$ git commit -m proj.txt
+fatal: Unable to create '/Users/BradlyJohnson/data/STC510/.git/index.lock': No space left on device
+bash-3.2$ git commit -m proj.txt
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	[31mmodified:   proj.txt[m
+
+Untracked files:
+	[31mlog.csv[m
+	[31mmod2.tar.gz[m
+	[31mmodule2[m
+
+no changes added to commit
+bash-3.2$ git commit -m proj.txt[C[K[K[K[K[K[K[K[K'added a ttitle and name.'
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	[31mmodified:   proj.txt[m
+
+Untracked files:
+	[31mlog.csv[m
+	[31mmod2.tar.gz[m
+	[31mmodule2[m
+
+no changes added to commit
+bash-3.2$ git update
+git: 'update' is not a git command. See 'git --help'.
+
+The most similar command is
+	update-ref
+bash-3.2$ git --help
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+bash-3.2$ git push
+Everything up-to-date
+bash-3.2$ ls
+LICENSE		README.md	hello.py	log.csv		mod2.tar.gz	module2		proj.txt
+bash-3.2$ cd proj.txt
+bash: cd: proj.txt: Not a directory
+bash-3.2$ nano proj.tc[Kxt
+[?1049h[1;27r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6                                   File: proj.txt                                                                             [3;1H(B[mBradly Johnson Module 2 'FBI' Records Best Attempt[4d40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385,education.realty.trust..txt,200.0,5145.0,0.0,0.0,0.0,10.0,0.0,[5d86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029,educationrealty2008yebnymc.txt,200.0,7078.0,0.0,0.0,0.0,10.0,0.0,[25;64H(B[0;7m[ Read 3 lines ][26d^G(B[m Get Help[26;24H(B[0;7m^O(B[m WriteOut[26;47H(B[0;7m^R(B[m Read File[26;70H(B[0;7m^Y(B[m Prev Page[26;93H(B[0;7m^K(B[m Cut Text[26;116H(B[0;7m^C(B[m Cur Pos[27d(B[0;7m^X(B[m Exit[27;24H(B[0;7m^J(B[m Justify[27;47H(B[0;7m^W(B[m Where Is[27;70H(B[0;7m^V(B[m Next Page[27;93H(B[0;7m^U(B[m UnCut Text[27;116H(B[0;7m^T(B[m To Spell[3d[26d[J[27;142H[27;1H[?1049l[?1l>bash-3.2$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   proj.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mlog.csv[m
+	[31mmod2.tar.gz[m
+	[31mmodule2[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-3.2$ git add proj .[K[K.txt
+bash-3.2$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   proj.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mlog.csv[m
+	[31mmod2.tar.gz[m
+	[31mmodule2[m
+
+bash-3.2$ git o[Kcommit -m 'added name and title to the doc'
+[main bbc26c4] added name and title to the doc
+ 1 file changed, 1 insertion(+)
+bash-3.2$ git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 343 bytes | 343.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/BradJohnson6/STC510.git
+   b57aaa2..bbc26c4  main -> main
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 29 19:06:46 2023
